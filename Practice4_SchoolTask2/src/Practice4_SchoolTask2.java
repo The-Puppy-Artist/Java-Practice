@@ -6,7 +6,7 @@ public class Practice4_SchoolTask2{
     public static double computeAreaOfCircle(double r){
         float pi;
         pi = 3.1415f;
-        return 3.1415*(r*r);
+        return pi*(r*r);
     }
 
     public static boolean isPass(double grade, double pass){
