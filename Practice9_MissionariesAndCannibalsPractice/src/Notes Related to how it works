@@ -1,0 +1,9 @@
+NOTES:
+Introduction:
+So esentially this is a finite state machine, on some Automata shit... Anyways
+Instead of thinking it as a river and a boat the program sees it as a state, like for example
+one side has 3 of this and so on and so forth. Anyways everytime th player makes a move the program runs that move through the logic
+or filters we made.
+1. Capacity check, thats the if else statement we made trying to see if the move fits in the boat
+2. Availability check, this checks if the side actually has people to give or move
+3. Survival check, this is thee final check to see if the game has already ended, also ask if they want to play again.
