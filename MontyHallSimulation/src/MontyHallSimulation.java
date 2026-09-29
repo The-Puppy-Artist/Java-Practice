@@ -18,7 +18,7 @@ public class MontyHallSimulation {
         choice = sc.nextInt();
 
 
-        //Note 5: What if switch case question and simulate it from which one you wanna run
+        //Note 5: What if switch case question and simulate it from which one you wanna run...
 
     }
 }
