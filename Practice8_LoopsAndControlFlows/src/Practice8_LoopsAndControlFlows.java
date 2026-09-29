@@ -76,10 +76,10 @@ public class Practice8_LoopsAndControlFlows {
             System.out.println("1. Enter Month (1-12): ");
             int month = input.nextInt();
 
-            System.out.println("1. Enter Day: ");
+            System.out.println("2. Enter Day: ");
             int day = input.nextInt();
 
-            System.out.println("1. Enter Year: ");
+            System.out.println("3. Enter Year: ");
             int year = input.nextInt();
 
             validateAndPrintDate(month, day, year);
