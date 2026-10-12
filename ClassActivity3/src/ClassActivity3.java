@@ -45,7 +45,7 @@ public class ClassActivity3 {
         }
 
         for (int i = 0; i < length; i++) {
-            p
+
         }
 
         System.out.println("Output: " + numWord);

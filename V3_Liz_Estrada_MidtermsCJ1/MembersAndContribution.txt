@@ -1,0 +1,4 @@
+Names:
+- Liz Cabeliza: Made the processMoves, assisted me in making the visuals, and added comments on specific blocks
+- Gab Estrada: Made the Main, runGame, and Visuals, added comments on specific blocks
+- Both: We both reviewed and QA'd it together
