@@ -16,7 +16,7 @@ public class EstradaLiz_MidtermsCJ1 {
     // true = left bank, false = right bank
     boolean boatOnLeft = true;
 
-    //The Block that runs game.runGame() [this specific block compiles all of the functions we made into one]
+    //The Block that runs game.runGame() [this specific block compiles all the functions we made into one]
     public static void main(String[] args) {
         EstradaLiz_MidtermsCJ1 game = new EstradaLiz_MidtermsCJ1();
         game.runGame();
