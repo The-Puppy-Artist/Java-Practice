@@ -194,3 +194,5 @@ public class TemperatureConverterApp {
     } //End block of PSVM. Be aware
 
 } // Final and Main Block
+
+//Note,lets organize our helpers and other function classes. Like lets do them first before the PSVM
